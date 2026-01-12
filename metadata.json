@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Banner AI Studio",
+  "description": "Professional LinkedIn banner generator and editor powered by Gemini 2.5 Flash Image. Create high-converting, modern banners with AI-driven design, typography, and photo integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
